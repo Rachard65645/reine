@@ -205,8 +205,8 @@ aside {
 
 
 footer {
-    background-color: #2c3e50;
-    color: white;
+    background-color: #f6ebcd;
+    color: black;
     padding: 40px 5%;
     display: flex;
     gap: 30px;
@@ -217,7 +217,7 @@ footer {
 }
 
 .footer-section h4 {
-    color: #f1c40f;
+    color: black;
     margin-bottom: 20px;
     font-size: 1.2rem;
 }
@@ -225,7 +225,7 @@ footer {
 .footer-section p {
     margin-bottom: 10px;
     font-size: 0.9rem;
-    color: #ecf0f1;
+    color: black;
 }
 
 .photo-grid {
@@ -258,7 +258,7 @@ footer {
 .friends-lists li {
     margin-bottom: 8px;
     font-size: 0.9rem;
-    color: #ecf0f1;
+    color: red;
 }
 
 .sadie-list {
